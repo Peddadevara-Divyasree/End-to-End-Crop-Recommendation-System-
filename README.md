@@ -1,4 +1,4 @@
-# End to End 🌾 Crop Recommendation System Using Machine Learning and Deploy On AWS
+# End to End Machine Learning-Based 🌾 Crop Recommendation System with AWS Deployment
 
 The **Crop Recommendation System** is a machine learning-based application developed to assist farmers and agricultural professionals in selecting the most suitable crops for their fields. By analyzing environmental and soil conditions, this system aims to optimize crop yields and maximize profitability. It considers factors like soil type, climate, rainfall, temperature, humidity, and pH levels to provide personalized recommendations tailored to the specific conditions of a farm or agricultural region.  
 
